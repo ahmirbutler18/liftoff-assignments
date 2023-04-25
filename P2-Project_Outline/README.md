@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+This app will Allow users to create a profile that can add or delete animals. Based on pets added the user will be able to view toxic or non toxic plants to that specific animal by search.
+
+
 ### Features
-Include Features here
+User will be able to create a profile or bypass and go straight to animal search.
+
+User can search for safe or toxic plants for specific aninmal.
+
+Users will be able to add or delete animals and save the changes to profile.
+
+
 ### Technologies
-Include Technologies here
+ASP.NET
+MYSQL
+C# Both Back end & front end
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Basic information for pets and animals 
+
+
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/NCJE2Gvi/launchcode
